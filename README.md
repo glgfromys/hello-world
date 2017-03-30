@@ -1,2 +1,3 @@
 # hello-world
-store ideas
+regardes
+pip avec Python
